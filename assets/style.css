@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+    margin: 0;
+    color:white;
+    background-color: black;
+}
+
+
+.titulo {
+  
+    display: flex;
+    margin: 20px;
+    padding: 30;
+}
+
+
+ul {
+    list-style-type: none;
+} 
+
+footer {
+    margin-top: auto;
+    padding: 1rem;
+}
+
+
+
+
+
